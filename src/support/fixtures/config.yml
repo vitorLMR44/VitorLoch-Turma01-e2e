@@ -1,0 +1,5 @@
+application:
+  base_url: "https://google.com"
+  todoMVC: "https://todomvc.com/examples/react/dist/#/"
+
+  
